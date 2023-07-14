@@ -5,17 +5,13 @@
 # <div align="center">Приветствую, гость!</div>  
 **<div align="center">Я Дияз - начинающий программист, который хочет стать чуток лучше, но лень часто берёт вверх</div>**  
 
-<table><tr><td valign="top" width="100%">
-
 - 🔭 Сейчас учу React
-- 🌱 Имею опыт в WPF и AndroidStudio
-- 📫 Мой [Telegramm](t.me/Diesel_x_03) и [ВКонтакт](https://vk.com/diesel_x)
+- 🌱 Разбираюсь в WPF и AndroidStudio
+- 📫 Мой [Telegram](https://t.me/Diesel_x_03) и [ВКонтакт](https://vk.com/diesel_x)
+- ⚡ Забавный факт: Соникофан со стажем в 7 лет
 
-</table>
-- ⚡ Забавный факт: Соникоман со стажем в 7 лет
-
-**<div align="center">Имею опыт в:</div>**  
-<table><tr><td valign="top" width="100%">
+<h1 align="center">Навыки имеются в:<h1>
+<table align="center"><tr><td valign="top"  width="10000">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
@@ -27,19 +23,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 </div> 
-<!--
-**Diesel-x/Diesel-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
