@@ -5,10 +5,15 @@
 # <div align="center">Приветствую, гость!</div>  
 **<div align="center">Я Дияз - начинающий программист, который хочет стать чуток лучше, но лень часто берёт вверх</div>**  
 
+- 🔭 Сейчас учу React
+- 🌱 Имею опыт в WPF и AndroidStudio
+- 📫 Мой [Telegramm](t.me/Diesel_x_03) и [ВКонтакт](https://vk.com/diesel_x)
+- ⚡ Забавный факт: Соникоман со стажем в 7 лет
+
 ## Я имею опыт в:
 <table><tr><td valign="top" width="100%">
 
-<div align="center" background="white">  
+<div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
