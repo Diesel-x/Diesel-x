@@ -21,7 +21,6 @@
 </div> 
 
 </table>
-## Статистика GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesel-x&layout=compact)](https://github.com/djostit/github-readme-stats)
 
