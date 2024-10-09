@@ -8,8 +8,8 @@
 - 🔭 Пока ничего не делаю
 - 🌱 Разбираюсь в WPF, ASP.NET Core. Прошёл курсы Яндекса по веб разработке.
 - 📫 Мой [Telegram](https://t.me/Diesel_x_03) и [ВКонтакт](https://vk.com/diesel_x)
-- ⚡ Забавный факт: Соникофан со стажем в 8 лет
-- 
+- ⚡ Забавный факт: Соникофан со стажем в 9 лет
+  
 </table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesel-x&layout=compact)](https://github.com/djostit/github-readme-stats)
